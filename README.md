@@ -4,6 +4,8 @@
 - 💻 Estudo PHP, Python.  
 - 💻 Analise de desenvolvimento e sistema - Concluiodo em 2022. 
 - 😄 Tenho 25 anos 
+
+https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-PHP" height="30" width="40" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png">
