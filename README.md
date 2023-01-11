@@ -4,6 +4,11 @@
 - 💻 Estudo PHP, Python.  
 - 💻 Analise de desenvolvimento e sistema - Concluiodo em 2022. 
 - 😄 Tenho 25 anos 
+
+<div align="center">
+  <a href="https://github.com/LuisHenriqueSantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-PHP" height="30" width="40" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png">
