@@ -10,7 +10,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Luis-Java" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZBadtD5iNZvqkuiHHjTCrVLxj18aI5zuhNKyiQ0r83_RRhDRE16l76wZAvKHvwP0DI9w&usqp=CAU)">
+  <img align="center" alt="Luis-JAVA" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZBadtD5iNZvqkuiHHjTCrVLxj18aI5zuhNKyiQ0r83_RRhDRE16l76wZAvKHvwP0DI9w&usqp=CAU">  
   <img align="center" alt="Luis-PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png">
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
