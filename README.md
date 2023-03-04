@@ -1,7 +1,6 @@
 ## Olá, Me chamo Luis Henrique 😉
-
-- 🔭 Sou Supervisor no departamento de suporte ao cliente. 
-- 💻 Estudo PHP, Python.  
+- 💻 Desenvolvedor Java Web 
+- 💻 Sempre estudo JAVA & PHP. 
 - 💻 Analise de desenvolvimento e sistema - Concluiodo em 2022. 
 - 😄 Tenho 25 anos 
 
