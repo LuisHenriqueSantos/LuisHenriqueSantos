@@ -1,4 +1,4 @@
-## Olá, Me chamo Luis Henrique 😉
+## Olá, eu sou Luis Henrique 😉
 - 💻 Desenvolvedor Java Web 
 - 💻 Sempre estudo JAVA & PHP. 
 - 💻 Analise de desenvolvimento e sistema - Concluiodo em 2022. 
