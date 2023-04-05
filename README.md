@@ -2,7 +2,11 @@
 - 💻 Desenvolvedor Java Web 
 - 💻 Sempre estudo JAVA & PHP. 
 - 💻 Analise de desenvolvimento e sistema - Concluiodo em 2022. 
+- 📚 Cursando - Inglês: Curso Completo do Zero à Fluência
+- 💻 Cursando - Java - Programação Orientada a Objetos +Projetos 2023 
+- 💻 Cursando - REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker
 - 😄 Tenho 25 anos 
+
 
 <div align="center">
   <a href="https://github.com/LuisHenriqueSantos">
