@@ -5,6 +5,7 @@
 - 📚 Cursando - Inglês: Curso Completo do Zero à Fluência
 - 💻 Cursando - Java - Programação Orientada a Objetos +Projetos 2023
 - 💻 Cursando - REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker 
+- 💻📚 Cursando - Engenharia de Software - Anhanguera 
 - 😄 Tenho 25 anos 
 
 
