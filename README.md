@@ -1,11 +1,11 @@
 ## Olá, eu sou Luis Henrique 😉
 - 💻 Desenvolvedor Java Web 
-- 💻 Sempre estudo JAVA, PHP & PYTHON. 
+- 💻 Sempre estudando JAVA, PHP & PYTHON. 
 - 💻 Analise de desenvolvimento e sistema - Concluiodo em 2022. 
-- 📚 Cursando - Inglês: Curso Completo do Zero à Fluência
-- 💻 Cursando - Java - Programação Orientada a Objetos +Projetos 2023
-- 💻 Cursando - REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker 
-- 💻📚 Cursando - Engenharia de Software - Anhanguera 
+- 📚 Cursando - Inglês: Curso Completo do Zero à Fluência (Udemy)
+- 💻 Cursando - Java - Programação Orientada a Objetos + Projetos 2023 (Udemy)
+- 💻 Cursando - REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker (Udemy)
+- 💻📚 Cursando - Engenharia de Software - (Anhanguera) 
 - 😄 Tenho 25 anos 
 
 
