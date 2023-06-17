@@ -6,7 +6,7 @@
 - 💻 Cursando - Java - Programação Orientada a Objetos + Projetos 2023 (Udemy)
 - 💻 Cursando - REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker (Udemy)
 - 💻📚 Cursando - Engenharia de Software - (Anhanguera) 
-- 😄 Tenho 25 anos 
+- 😄 Data de nascimento 20/06/1997
 
 
 <div align="center">
