@@ -2,7 +2,7 @@
 
 - 💻 Desenvolvedor Java Web 
 - 💻 Sempre estudando JAVA, PHP & PYTHON. 
-- 💻 Analise de desenvolvimento e sistema - Concluído em 2022.
+- 💻 Analise e desenvolvimento de sistemas - Concluído em 2022.
 - 💻📚 Cursando - Engenharia de Software - (Anhanguera)
 - 💻📚 Cursando - Java (Mentorama)
 - 📚 Cursando - Inglês: Curso Completo do Zero à Fluência (Udemy)
