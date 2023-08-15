@@ -8,9 +8,6 @@
 - 📚 Cursando - Inglês: Curso Completo do Zero à Fluência (Udemy)
 - 😄 Data de nascimento 20/06/1997
 
- ![WhatIfMarvelIronManGIF](https://github.com/LuisHenriqueSantos/LuisHenriqueSantos/assets/78195873/3db7253e-2404-4199-994b-013f155df901)
-
-
 <div align="center">
   <a href="https://github.com/LuisHenriqueSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisHenriqueSantos&show_icons=true&theme=radical"/>
