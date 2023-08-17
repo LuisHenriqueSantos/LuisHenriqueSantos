@@ -7,11 +7,6 @@
 - 💻📚 Cursando - Java (Mentorama)
 - 📚 Cursando - Inglês: Curso Completo do Zero à Fluência (Udemy)
 - 😄 Data de nascimento 20/06/1997
-
-<div align="center">
-  <a href="https://github.com/LuisHenriqueSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisHenriqueSantos&show_icons=true&theme=radical"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-JAVA" height="30" width="40" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png">  
