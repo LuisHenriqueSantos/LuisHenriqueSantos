@@ -8,7 +8,24 @@
 - 📚 Cursando - Inglês: Curso Completo do Zero à Fluência (Udemy)
 - 😄 Data de nascimento 20/06/1997
 
-  ##
+
+##
+
+<div> 
+  <a target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>    
+  <a target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>    
+  <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>    
+  <a target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank"></a>   
+  <a target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>   
+  <a target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>   
+  <a target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>   
+  <a target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" target="_blank"></a>   
+  <a target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>   
+  <a target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>   
+  <a target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" target="_blank"></a> 
+</div>
+
+##
   
 <div> 
   <a href="https://www.instagram.com/luis_henrique.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -18,14 +35,4 @@
   <a href="https://api.whatsapp.com/send?phone=5514996672954" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>    
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luis-JAVA" height="30" width="40" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png">  
-  <img align="center" alt="Luis-PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png">
-  <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luis-CSS" height="30" width="40" src="https://th.bing.com/th/id/R.886e10b740fd83dc8b37159999437c36?rik=NqnuNYV7drhdnA&pid=ImgRaw&r=0">
-  <img align="center" alt="Luis-CSS" height="30" width="40" src="https://th.bing.com/th/id/R.475062ddf343c988cbb17760f4eaa820?rik=80a78shVstRy3g&pid=ImgRaw&r=0">
 
-  
-</div>
