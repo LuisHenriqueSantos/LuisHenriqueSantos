@@ -3,7 +3,7 @@
 - 💻 Desenvolvedor Java Web 
 - 💻 Sempre estudando JAVA, PHP & PYTHON. 
 - 💻 Analise e desenvolvimento de sistemas - Concluído em 2022.
-- 💻📚 Cursando - Engenharia de Software - (Anhanguera)
+- 💻📚 Cursando - Android Kotlin 
 - 💻📚 Cursando - Java (Mentorama)
 - 📚 Cursando - Inglês: Curso Completo do Zero à Fluência (Udemy)
 - 😄 Data de nascimento 20/06/1997
