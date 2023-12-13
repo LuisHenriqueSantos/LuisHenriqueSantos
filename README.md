@@ -13,10 +13,6 @@
 - 📚 Cursando - Inglês: Curso Completo do Zero à Fluência (Udemy)
 - 😄 Data de nascimento 20/06/1997
 
-
-##
-
-
 ## Tecnologias, linguagens e frameworks
 <div>    
   <a target="_blank"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" target="_blank"></a>   
