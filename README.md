@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c71585&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000cd&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Eu+me+chamo+Luis+Henrique;Tenho+26+anos+e+moro+em+Ipaussu,+SP;Sou+desenvolvedor+Java,+mobile;Seja+bem+vindo+ao+meu+Perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F0F8FF&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Eu+me+chamo+Luis+Henrique;Tenho+26+anos+e+moro+em+Ipaussu,+SP;Sou+desenvolvedor+Java,+mobile;Seja+bem+vindo+ao+meu+Perfil!+:%29)](https://git.io/typing-svg)
 
 # Olá! Seja Bem Vindo ao meu Perfil !  😎🤜🤛
 
@@ -12,6 +12,14 @@
 - 💻📚 Cursando - Java (Mentorama)
 - 📚 Cursando - Inglês: Curso Completo do Zero à Fluência (Udemy)
 - 😄 Data de nascimento 20/06/1997
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/LuisHenriqueSantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisHenriqueSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenriqueSantos&layout=compact&langs_count=7&theme=dark"/>
+</div></a>
 
 ## Tecnologias, linguagens e frameworks
 <div>    
