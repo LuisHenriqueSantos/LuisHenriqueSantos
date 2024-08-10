@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c71585&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=black=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Me+chamo+Luis+Henrique;Tenho+27+anos+e+moro+em+Ipaussu,+SP;Sou+desenvolvedor+JavaWeb/,+React;Seja+bem+vindo+ao+meu+Perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=black=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Me+chamo+Luis+Henrique;Tenho+27+anos+e+moro+em+Ipaussu,+SP;Sou+desenvolvedor+JavaWeb/React;Seja+bem+vindo+ao+meu+Perfil!+:%29)](https://git.io/typing-svg)
 
 # Olá! Seja Bem Vindo ao meu Perfil !  😎🤜🤛
 
