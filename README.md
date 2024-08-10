@@ -5,8 +5,8 @@
 # Olá! Seja Bem Vindo ao meu Perfil !  😎🤜🤛
 
 
-- 💻 Desenvolvedor Java Web | ReactJs
-- 💻 Tecnologias que atuei Java, Php, Python, ReactJs, Vue,js
+- 💻 Desenvolvedor Java|ReactJs
+- 💻 Tecnologias que atuei: Java, Php, Python, ReactJs, Vue,js
 - 💻 Analise e desenvolvimento de sistemas - Concluído em 2022.
 - 💻📚 Cursando - Android Kotlin 
 - 💻📚 Cursando - Java (Mentorama)
