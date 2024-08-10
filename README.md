@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=black=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Me+chamo+Luis+Henrique;Tenho+27+anos+e+moro+em+Ipaussu,+SP;Sou+desenvolvedor+JavaWeb/React;Seja+bem+vindo+ao+meu+Perfil!+:%29)](https://git.io/typing-svg)
 
-# Olá! Seja Bem Vindo ao meu Perfil !  😎https://tenor.com/pt-BR/view/coding-gif-25731151
+# Olá! Seja Bem Vindo ao meu Perfil !  😎![CodingGIF](https://github.com/user-attachments/assets/723c9095-06ba-4b77-aa43-c8e7ded4f135)
+
+
 
 
 
