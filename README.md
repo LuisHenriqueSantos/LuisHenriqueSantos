@@ -2,14 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=black=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Me+chamo+Luis+Henrique;Tenho+27+anos+e+moro+em+Ipaussu,+SP;Sou+desenvolvedor+JavaWeb/React;Seja+bem+vindo+ao+meu+Perfil!+:%29)](https://git.io/typing-svg)
 
-# Olá! Seja Bem Vindo ao meu Perfil ![JarvisIronManGIF (2)](https://github.com/user-attachments/assets/5966faca-5123-4d6e-8e02-b92ad9b37c2f)
+![JarvisIronManGIF (2)](https://github.com/user-attachments/assets/5966faca-5123-4d6e-8e02-b92ad9b37c2f)
 
-
-
-
-
-
-
+# Olá! Seja Bem Vindo ao meu Perfil 
 - 💻 Desenvolvedor Java|ReactJs
 - 💻 Tecnologias que atuei: Java, Php, Python, ReactJs, Vue,js
 - 💻 Analise e desenvolvimento de sistemas - Concluído em 2022.
