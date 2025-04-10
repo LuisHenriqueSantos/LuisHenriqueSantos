@@ -4,11 +4,11 @@
 
 # Olá! Seja Bem Vindo ao meu Perfil 💻🎧🚀
 - 💻 Desenvolvedor Java|ReactJs
-- 💻 Tecnologias que atuei: Java, Php, Python, ReactJs, Vue,js
+- 💻 Tecnologias que atuei: Java, Php, Python, ReactJs, VueJs, Spring Boot.
 - 💻 Analise e desenvolvimento de sistemas - Concluído em 2022.
 - 💻📚 Cursando - Android Kotlin 
 - 💻📚 Cursando - Java (Mentorama)
-- 📚 Cursando - Inglês: Curso Completo do Zero à Fluência (Udemy)
+- 📚 Cursando - Inglês: CNA
 - 😄 Data de nascimento 20/06/1997
 
 <br/>
