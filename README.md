@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=black=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Luis+Henrique;I+am+27+years+old+and+I'm+from+Ipaussu,+SP;I+am+a+JavaWeb/React+developer;Welcome+to+my+Profile!+:%29)](https://git.io/typing-svg)
 
-# Olá! Seja Bem Vindo ao meu Perfil 💻🎧🚀
+# Hello! Welcome to my profile 💻🎧🚀
 - 💻 Developer Java
 - 💻 Technologies I worked: Java, PHP, Python, Reactjs, Vuejs, Spring Boot.
 - 💻 Systems Analysis and Development - Completed in 2022.
